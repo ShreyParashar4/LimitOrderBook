@@ -1,4 +1,4 @@
-# 📈 Limit Order Book (HFT Core)
+# 📈 Limit Order Book
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B17-blue.svg)
 ![Type](https://img.shields.io/badge/type-FinTech-green.svg)
